@@ -1,0 +1,32 @@
+.blank {background: black;}
+.body {background: blue;}
+.head {background: green;}
+.fruit {background: red;}
+
+p { color:black; }
+
+table, tr, td {
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+}
+table {
+  border: 10px #101055;
+    table-layout: fixed;
+	  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td{
+	height 25%;
+	text-align: center;
+	vertical-align: middle;
+	background-color: black;
+	font-size: 10px;
+	font: baloo;
+  color: white;
+}
+tr {
+	
+
+}
